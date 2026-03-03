@@ -4,7 +4,7 @@ button {
 
 .btn {
     background: var(--color-primary);
-    border-radius: var(--radius-xl);
+    border-radius: var(--radius-lg);
     color: var(--color-primary-foreground);
     padding-inline: calc(var(--spacing) * 3);
     font-size: var(--text-sm);
